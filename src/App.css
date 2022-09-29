@@ -1,0 +1,64 @@
+body {
+	/* background: linear-gradient(transparent, rgba(0, 0, 0, 1)); */
+    background-color: rgb(32, 87, 100);
+	background-repeat: no-repeat;
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: #1db954;
+  padding-bottom: 55vh;
+}
+.Slogo{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 100vh;
+  width: 100vw;
+  background-color: #1db954;
+  gap: 5rem;
+}
+.Slogo img{
+	height: 20vh;
+}
+.Slogo button{
+	padding: 1rem 5rem;
+    border-radius: 5rem;
+    background-color: black;
+    color: #49f585;
+    border: none;
+    font-size: 1.4rem;
+    cursor: pointer;
+}
+.Slogoo{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 10vh;
+  width: 100vw;
+  background-color: #1db954;
+  gap: 5rem;
+  font-weight: bold;
+}
+.Slogoo img{
+	height: 7vh;
+}
+.Slogoo button{
+    background-color: black;
+    color: #49f585;
+    
+}
+.Slogoo h3{
+  font-weight: 900;
+}
+.white{
+  color : white;
+}
+.white h1{
+  font-weight: 900;
+}
+.text{
+  font-style: italic;
+}

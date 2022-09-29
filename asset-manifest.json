@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/BoardInfinityAssingment/static/css/main.c5bc3fc2.css",
+    "main.js": "/BoardInfinityAssingment/static/js/main.96b614b2.js",
+    "index.html": "/BoardInfinityAssingment/index.html",
+    "main.c5bc3fc2.css.map": "/BoardInfinityAssingment/static/css/main.c5bc3fc2.css.map",
+    "main.96b614b2.js.map": "/BoardInfinityAssingment/static/js/main.96b614b2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5bc3fc2.css",
+    "static/js/main.96b614b2.js"
+  ]
+}
